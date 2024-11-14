@@ -1,7 +1,7 @@
 
 
 const hello = () => {
-return "aymen"
+return "aymen" +"khaled"
 }
 console.log(hello)
 
